@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "studio.wegather.dogeared",
+      "sha256_cert_fingerprints": [
+        "05:F3:A0:F6:3D:2B:76:DD:D4:9D:11:80:9E:A5:BF:1A:DC:CE:45:AA:92:75:42:3A:A5:0D:EE:EC:0D:F4:B8:5C"
+      ]
+    }
+  }
+]
